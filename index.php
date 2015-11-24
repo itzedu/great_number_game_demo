@@ -46,7 +46,8 @@
 </head>
 <body>
   <div id="container">
-    <h1>Welcome to the Great Number Game</h1>
+    <img src="http://cgko.us/funny_pix/edu.gif">
+    <h1>Welcome to Cool Edu's Great Number Game</h1>
     <p>I am thinking of a number from 1 to 100</p>
     <p>Take a guess</p>
 <?php  
