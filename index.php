@@ -12,7 +12,7 @@
 
 <html>
 <head>
-  <title>Great Number Game</title>
+  <title>Great Number Challenge</title>
   <style type="text/css">
     #container {
       width: 980px;
